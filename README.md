@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Kay Lee Clench, a 38 year old transgirl based in Manchester UK. I started out my career in 2008 and have been working solidly in the devops and cloud platform engineering space since 2016~
+Previously worked at Nationwide Building Society, IBM, Capgemini and my own business 8 Over 2 Ltd.
 
 - 😄 Pronouns: She/They
 - 💬 Professional and Technical interests: Diversity in tech, LGBTQIA+, Chaos engineering, Cloud native technology, Opensource tech, Containerisation, CICD tech, media servers and the likes.
